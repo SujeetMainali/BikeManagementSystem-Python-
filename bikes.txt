@@ -1,0 +1,10 @@
+Bullet,Royal,Black,117,250000
+Fz,Yamaha,Blue,80,10000
+Pulsar,Bajaj,Blue,110,12000
+RayZr,Yamaha,Green,95,8000
+Dio,Honda,Red,107,7000
+CRF,Honda,Red,100,18000
+Gold,Honda,Black,180,50000
+BMW ,BMW,Black,100,60000
+JAWA 42,JAWA,White,100,35000
+Apache,TVS,Red,145,15000
